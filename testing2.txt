@@ -4,3 +4,4 @@ edit dr remote
 edit dr local
 
 edit#2 dr remote
+edit#2 dr local
